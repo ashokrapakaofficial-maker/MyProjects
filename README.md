@@ -180,7 +180,7 @@ public class MyArchitecturePhilosophy
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashokkumarrapaka">
+  <a href="[https://www.linkedin.com/in/ashokkumarrapaka](https://www.linkedin.com/in/ashok-kumar-rapaka-924645425/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
@@ -188,7 +188,7 @@ public class MyArchitecturePhilosophy
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
   </a>
   &nbsp;
-  <a href="https://github.com/AshokKumarRapaka">
+  <a href="[https://github.com/AshokKumarRapaka](https://github.com/ashokrapakaofficial-maker/)">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
