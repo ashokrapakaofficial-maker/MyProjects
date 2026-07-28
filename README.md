@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashok-kumar-rapaka&label=Profile%20Views&color=0078D4&style=flat" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/ashok-kumar-rapaka"><img src="https://www.linkedin.com/in/ashok-kumar-rapaka-924645425?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ashokrapakaofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Experience-11%2B%20Years-brightgreen?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AshokKumarRapaka&label=Profile%20Views&color=0078D4&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/ashok-kumar-rapaka"><img src="https://www.linkedin.com/in/ashok-kumar-rapaka?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ashok.rapaka.extend@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Experience-18%2B%20Years-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=flat&logo=google-maps" />
 </p>
 
